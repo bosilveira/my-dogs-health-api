@@ -19,3 +19,25 @@ POST /login <br/>
 POST /signin
 
 Qualquer um desses 2 endpoints pode ser usado para realizar login com um dos usuários cadastrados na lista de "Users"
+
+### Dogs
+
+POST /dogs
+
+este endpoint é responsavel por adicionar um cachorro, voce precisa do seu id de usuario para cadastrar.
+
+GET /users/:id?\_embed=dogs
+
+este endpoint é responsavel por trazer todas as informações do usuário e os dogs cadastrados.
+
+GET /dogs/:idDog
+
+este endpoint é responsavel por lsitar um dog especifico, voce precisa do id do dog e tambem do token.
+
+PATCH /dogs/:idDog
+
+este endpoint é responsavel por editar as informações do seu dog, voce pode mudar todas as informações ou somente a que desejar. Tenha em mãos o id do dog e seu token.
+
+DELETE /dogs/:idDog
+
+este endpoint é responsavel por deletar um dog especifico, voce precisa passar o id do dog e ter seu token.

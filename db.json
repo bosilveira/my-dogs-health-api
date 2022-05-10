@@ -6,6 +6,34 @@
       "name": "Kenzinho",
       "age": 38,
       "id": 1
+    },
+    {
+      "email": "hyan@mail.com",
+      "password": "$2a$10$700FvCnDOarENuCgH/Dt3eVtdYOslIhIF/T08V.RHeCHys7wk68ti",
+      "id": 2
+    },
+    {
+      "email": "hyan@gmail.com",
+      "password": "$2a$10$ZGoQpt8uPrw7WgvZ6.3qE.id/RAR0.O819vaz2kOy17QyXXHYilqa",
+      "userId": 3,
+      "id": 3
+    },
+    {
+      "email": "teste@mail.com",
+      "password": "$2a$10$3E2wNpthoD65ExRlwMIISuBNjVdow0TydA16jlVhqYVp4Zfh4MMKe",
+      "id": 4
+    }
+  ],
+  "dogs": [
+    {
+      "teste": "cachorro",
+      "userId": 2,
+      "id": 1
+    },
+    {
+      "teste": "seggundo dog",
+      "userId": 3,
+      "id": 2
     }
   ]
 }
