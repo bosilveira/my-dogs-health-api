@@ -1,0 +1,19 @@
+{
+    "__created_at": 1653006710,
+    "__updated_at": 1653006756,
+    "data": {
+        "id": 1653006710,
+        "email": "teste11@gmail.com",
+        "password": "Cp1149rmn5l!",
+        "token": "bc92c78af39e212b19a41390f4051cd89c26090d392ee6009adb3e0d9769912970c11514b20e18fa11898d46afaf150be0ea27b9f020413d487558180ea12891",
+        "thumb": "https://imgs.search.brave.com/cAJkOIUaTcQlsftunPIgA-QS8XEdQi3eeg4lFAku5QQ/rs:fit:900:900:1/g:ce/aHR0cHM6Ly95dDMu/Z2dwaHQuY29tL2Ev/QUdGLWw3OUdfWktB/SEQ4R1NtV3RPYjJx/ek56MXBjQzBKVTB2/NUp1bDZnPXM5MDAt/bW8tYy1jMHhmZmZm/ZmZmZi1yai1rLW5v",
+        "name": "Naruto ",
+        "username": "Uzumaki123",
+        "bio": "Eu vou ser um Hokage",
+        "contact": "",
+        "specialist": "false",
+        "association": "",
+        "city": "Vila da Folha",
+        "status": "ok"
+    }
+}

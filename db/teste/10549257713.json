@@ -1,0 +1,26 @@
+{
+    "__created_at": 1652673678,
+    "__updated_at": 1652673678,
+    "data": {
+        "cpf": "105.492.577-13",
+        "nome": "Bráulio de Oliveira Silveira",
+        "exibicao": "Bráulio Silveira",
+        "impressao": "Bráulio Silveira",
+        "e-mail": "bosilveira@gmail.com",
+        "unidade": "Central de Atendimento",
+        "local": "Campus Juiz de Fora",
+        "icone": "",
+        "posto": "Guichê",
+        "terminal": "01",
+        "mostrador": "Atendimento",
+        "acesso": "123",
+        "status": "ativo",
+        "fone": "(32)991307931",
+        "horario": "",
+        "cargo": "Analista",
+        "vinculo": "Terceirizado",
+        "projeto": "",
+        "matricula": "201870002",
+        "perfil": ""
+    }
+}

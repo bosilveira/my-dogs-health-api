@@ -1,0 +1,19 @@
+{
+    "__created_at": 1653053118,
+    "__updated_at": 1653053155,
+    "data": {
+        "id": 1653053118,
+        "email": "email123@email.com",
+        "password": "123456789Aa@",
+        "token": "36f509f42db854086980faddfd5493233fd091d15a07c8f56f5b074e4261ba6ecd905b042cb5c1e80ae41bdb126aa315b98fd92de0d34d706bad26635cc63e2e",
+        "thumb": "https://github.com/wence-.png",
+        "name": "Teste",
+        "username": "teste",
+        "bio": "biografia",
+        "contact": "32987654321",
+        "specialist": "true",
+        "association": "CRMVSP1234",
+        "city": "teste",
+        "status": "ok"
+    }
+}

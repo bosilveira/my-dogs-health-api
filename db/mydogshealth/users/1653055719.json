@@ -1,0 +1,19 @@
+{
+    "__created_at": 1653055719,
+    "__updated_at": 1653055719,
+    "data": {
+        "id": 1653055719,
+        "email": "sss@mail.com",
+        "password": "123456789A@",
+        "token": "38d8ff62ef21dab409dbd6d480e7ad9523a7611abede1a3e7817a33493963c96c73252449ffc2f8a4ec94892404dbe958ee6de28694cfb7363136d147885d25e",
+        "thumb": "",
+        "name": "User1653055719",
+        "username": "username1653055719",
+        "bio": "Bio de User1653055719",
+        "contact": "",
+        "specialist": false,
+        "association": "",
+        "city": "",
+        "status": "incomplete"
+    }
+}

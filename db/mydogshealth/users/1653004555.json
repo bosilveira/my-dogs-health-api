@@ -1,0 +1,19 @@
+{
+    "__created_at": 1653004555,
+    "__updated_at": 1653004647,
+    "data": {
+        "id": 1653004555,
+        "email": "mariecarvalho007@gmail.com",
+        "password": "maria2003!",
+        "token": "adc23bdfde6f535afe942b5a7ab25ef4d55cc3c7dafd49adefe8ce29fb96afe23446a02cd743769dbc112463b932a0ee000168ef9b0a16bea31156c51e2863b7",
+        "thumb": "",
+        "name": "Maria Eduarda",
+        "username": "mariaduda",
+        "bio": "",
+        "contact": "24981234567",
+        "specialist": "false",
+        "association": "",
+        "city": "Miguel Pereira",
+        "status": "ok"
+    }
+}

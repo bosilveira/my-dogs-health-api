@@ -1,0 +1,19 @@
+{
+    "__created_at": 1653093502,
+    "__updated_at": 1653093645,
+    "data": {
+        "id": 1653093502,
+        "email": "daniel@gmail.com",
+        "password": "123456Dn$",
+        "token": "15655170a8a56d1a006cd828d189c8a1423d0f4641ce60356ae393b2f18f9779001790ef8054aa51842c4b5c22751c9bec296898746597f228a1ea5073eb1cf2",
+        "thumb": "https://images.tcdn.com.br/img/img_prod/697730/adesivo_lateral_vidro_caminhao_carro_decorativo_bart_simpson_5_1147485849_1_20201005081814.jpg",
+        "name": "bart",
+        "username": "bart",
+        "bio": "filho home simpson",
+        "contact": "",
+        "specialist": "false",
+        "association": "",
+        "city": "rio de jananeiro",
+        "status": "ok"
+    }
+}

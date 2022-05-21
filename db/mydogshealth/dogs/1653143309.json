@@ -1,0 +1,14 @@
+{
+    "__created_at": 1653143309,
+    "__updated_at": 1653143309,
+    "data": {
+        "id": 1653143309,
+        "thumb": "https://cdn.pixabay.com/photo/2020/03/31/19/20/dog-4988985__480.jpg",
+        "name": "Lala",
+        "breed": "Doberman",
+        "gender": "macho",
+        "birth": "2022-05-13",
+        "owner": 1653006324,
+        "token": "bce7d42e0ed15d36b0af50e393ceed5cc7d7c563c50d45a77ab66cc85356bf689afc636fd6f76d4007aba6522d37c2793de42fbd0c9b9e1407dce39857961b49"
+    }
+}

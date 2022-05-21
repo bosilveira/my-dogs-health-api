@@ -1,0 +1,19 @@
+{
+    "__created_at": 1653076457,
+    "__updated_at": 1653076499,
+    "data": {
+        "id": 1653076457,
+        "email": "testemaneiro123@gmail.com",
+        "password": "Cp1149rmn5l!",
+        "token": "574e291752e2b57b1169cb7d425dc3ea9591f5020e8cb986ac0a3b163d8b8ff6f83440a6496f460b9fe7eac651b0a51554b2a25b68ac62d1b9603c7b18141c93",
+        "thumb": "https://sm.ign.com/ign_br/screenshot/default/naruto-shippuden_f134.png",
+        "name": "Mateus",
+        "username": "Uzumaki123",
+        "bio": "OLá Mundo",
+        "contact": "51998587680",
+        "specialist": "false",
+        "association": "",
+        "city": "Vila da Folha",
+        "status": "ok"
+    }
+}

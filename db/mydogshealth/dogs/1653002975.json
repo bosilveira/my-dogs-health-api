@@ -1,0 +1,14 @@
+{
+    "__created_at": 1653002975,
+    "__updated_at": 1653002975,
+    "data": {
+        "id": 1653002975,
+        "thumb": "https://oamor.com.br/wp-content/uploads/2018/04/cachorros-da-ra%C3%A7a.jpg",
+        "name": "Champions",
+        "breed": "Filho",
+        "gender": "macho",
+        "birth": "2022-05-02",
+        "owner": 1653002884,
+        "token": "357355fc56425d1b6e763e311478be946a5bf4aeafc76f5cfbd3fe346eb025486c2475e43440f8b026e68879d5136d812a0797ebce5f9f0ce2546202b2bc5217"
+    }
+}

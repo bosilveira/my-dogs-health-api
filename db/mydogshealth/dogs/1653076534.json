@@ -1,0 +1,14 @@
+{
+    "__created_at": 1653076534,
+    "__updated_at": 1653076534,
+    "data": {
+        "id": 1653076534,
+        "thumb": "https://images.unsplash.com/photo-1608744882201-52a7f7f3dd60?ixlib=rb-1.2.1&raw_url=true&q=80&fm=jpg&crop=entropy&cs=tinysrgb&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=436",
+        "name": "Laila",
+        "breed": "Dobermann",
+        "gender": "fêmea",
+        "birth": "2022-05-11",
+        "owner": 1653076457,
+        "token": "574e291752e2b57b1169cb7d425dc3ea9591f5020e8cb986ac0a3b163d8b8ff6f83440a6496f460b9fe7eac651b0a51554b2a25b68ac62d1b9603c7b18141c93"
+    }
+}

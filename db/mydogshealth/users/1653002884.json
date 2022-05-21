@@ -1,0 +1,19 @@
+{
+    "__created_at": 1653002884,
+    "__updated_at": 1653002952,
+    "data": {
+        "id": 1653002884,
+        "email": "cr7@gmail.com",
+        "password": "12345Cr7!",
+        "token": "357355fc56425d1b6e763e311478be946a5bf4aeafc76f5cfbd3fe346eb025486c2475e43440f8b026e68879d5136d812a0797ebce5f9f0ce2546202b2bc5217",
+        "thumb": "https://s.yimg.com/ny/api/res/1.2/N6urr3B51zTFEVEvmZWasg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTY2MztjZj13ZWJw/https://s.yimg.com/os/creatr-uploaded-images/2022-05/21e29ae0-d558-11ec-bfbf-bc0b5936d7c6",
+        "name": "Cr7",
+        "username": "Cr7",
+        "bio": "Sou o millor",
+        "contact": "24 981502226",
+        "specialist": "false",
+        "association": "",
+        "city": "Miguel Pereira",
+        "status": "ok"
+    }
+}

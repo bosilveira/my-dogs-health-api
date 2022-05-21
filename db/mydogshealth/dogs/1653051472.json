@@ -1,0 +1,14 @@
+{
+    "__created_at": 1653051472,
+    "__updated_at": 1653051472,
+    "data": {
+        "id": 1653051472,
+        "thumb": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/06154034/Akita-standing-outdoors-in-the-summer.jpg",
+        "name": "Shakira",
+        "breed": "Bernese",
+        "gender": "fêmea",
+        "birth": "2022-05-01",
+        "owner": 1653051406,
+        "token": "652d6605b4ce0d8cdcc16735814448c852ebcf11dbc5b22e993524cc1ba237dff5b5c03963b694346e8aa6c000b71c237c77bef30a1bc45dc240166b8f7602e3"
+    }
+}

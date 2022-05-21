@@ -1,0 +1,14 @@
+{
+    "__created_at": 1653068121,
+    "__updated_at": 1653068121,
+    "data": {
+        "id": 1653068121,
+        "thumb": "https://www.akc.org/wp-content/uploads/2017/11/Australian-Cattle-Dog-laying-down-in-the-grass.jpg",
+        "name": "Janjão",
+        "breed": "Australian",
+        "gender": "macho",
+        "birth": "2022-05-02",
+        "owner": 1653067889,
+        "token": "f004290b198866f8bb0819a447072b238668531bfcea6512136f575c541f1ec9d9c597f25322ff560d44709cf3e54cdf3287199f1f61a1df1ce5d047b1847615"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "__created_at": 1653046975,
+    "__updated_at": 1653047060,
+    "data": {
+        "id": 1653046975,
+        "thumb": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/09151144/Alaskan-Malamute-standing-in-the-grass1.jpg",
+        "name": "Shakira Estrela",
+        "breed": "Bernese",
+        "gender": "macho",
+        "birth": "2022-05-01",
+        "owner": 1653046894,
+        "token": "ec778fda28b972b28dbf1f640e44f3692c559fe6f701627c1d16dee7266dfb46a525a4949326b11014fb22b29b07404313ef8cd32e00e518228c62b39d9dd84e"
+    }
+}

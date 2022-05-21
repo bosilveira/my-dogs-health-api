@@ -1,0 +1,19 @@
+{
+    "__created_at": 1653087844,
+    "__updated_at": 1653088036,
+    "data": {
+        "id": 1653087844,
+        "email": "ev3r50n.cloud@gmail.com",
+        "password": "123123aaS$",
+        "token": "9c1a305e924c9a55447cdff09693a167094e94770df11f9f26e2953129aebdd63cc225ac5f7266c99b88242fea4bd64c7bb574a689e22514d2663c02535c3f64",
+        "thumb": "Teste",
+        "name": "Teste2",
+        "username": "Evolução ",
+        "bio": "Vdd que esse mês eu não e4",
+        "contact": "Ooooooo",
+        "specialist": "false",
+        "association": "Não ",
+        "city": "Teste",
+        "status": "ok"
+    }
+}

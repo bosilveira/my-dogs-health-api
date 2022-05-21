@@ -1,0 +1,14 @@
+{
+    "__created_at": 1653006452,
+    "__updated_at": 1653006452,
+    "data": {
+        "id": 1653006452,
+        "thumb": "https://folhago.com.br/wp-content/uploads/2020/11/pastor-alemao-CAPA-sobraci.jpeg",
+        "name": "Julios",
+        "breed": "Pastor Alemão",
+        "gender": "macho",
+        "birth": "2022-05-10",
+        "owner": 1653006324,
+        "token": "bce7d42e0ed15d36b0af50e393ceed5cc7d7c563c50d45a77ab66cc85356bf689afc636fd6f76d4007aba6522d37c2793de42fbd0c9b9e1407dce39857961b49"
+    }
+}

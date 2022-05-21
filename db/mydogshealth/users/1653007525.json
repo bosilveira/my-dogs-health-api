@@ -1,0 +1,19 @@
+{
+    "__created_at": 1653007525,
+    "__updated_at": 1653007566,
+    "data": {
+        "id": 1653007525,
+        "email": "anthonifelipi@gmail.com",
+        "password": "Aa1234@@",
+        "token": "d2df397999e44c3e644e39be3c943f192e3b98a3523f0322540c9e7dd91fdd6dd465a6b0dff42335abf1d74438418cf919e3e7dd45e14b01a51ea2e4b0bad906",
+        "thumb": "",
+        "name": "Anthoni",
+        "username": "Anthoni",
+        "bio": "",
+        "contact": "",
+        "specialist": "false",
+        "association": "",
+        "city": "Guarujá",
+        "status": "ok"
+    }
+}

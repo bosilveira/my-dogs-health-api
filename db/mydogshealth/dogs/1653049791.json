@@ -1,0 +1,14 @@
+{
+    "__created_at": 1653049792,
+    "__updated_at": 1653049792,
+    "data": {
+        "id": 1653049791,
+        "thumb": "http://petiko-files-storage.s3.amazonaws.com/petikoblog/2014/04/7_2.jpg",
+        "name": "Champions",
+        "breed": "Filho",
+        "gender": "macho",
+        "birth": "2022-05-10",
+        "owner": 1653049702,
+        "token": "c12706c3a67728d8556750f93522c394eb8e44840d6931deb451eaa8552be81c3f69f600508faf7283334304a98a8ad1d6c886f02c59796ef30f0b290b7542ff"
+    }
+}

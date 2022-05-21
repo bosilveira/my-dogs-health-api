@@ -1,0 +1,19 @@
+{
+    "__created_at": 1653049702,
+    "__updated_at": 1653049757,
+    "data": {
+        "id": 1653049702,
+        "email": "cr77@gmail.com",
+        "password": "12345Cr7!",
+        "token": "c12706c3a67728d8556750f93522c394eb8e44840d6931deb451eaa8552be81c3f69f600508faf7283334304a98a8ad1d6c886f02c59796ef30f0b290b7542ff",
+        "thumb": "https://s.yimg.com/ny/api/res/1.2/N6urr3B51zTFEVEvmZWasg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTY2MztjZj13ZWJw/https://s.yimg.com/os/creatr-uploaded-images/2022-05/21e29ae0-d558-11ec-bfbf-bc0b5936d7c6",
+        "name": "Cristiano Ronaldo",
+        "username": "cr7",
+        "bio": "Sou o millor",
+        "contact": "24 981502226",
+        "specialist": "false",
+        "association": "",
+        "city": "Manchester",
+        "status": "ok"
+    }
+}

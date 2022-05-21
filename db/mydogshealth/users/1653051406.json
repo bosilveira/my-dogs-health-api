@@ -1,0 +1,19 @@
+{
+    "__created_at": 1653051406,
+    "__updated_at": 1653051446,
+    "data": {
+        "id": 1653051406,
+        "email": "teste123456789@mail.com",
+        "password": "123456789Aa@",
+        "token": "652d6605b4ce0d8cdcc16735814448c852ebcf11dbc5b22e993524cc1ba237dff5b5c03963b694346e8aa6c000b71c237c77bef30a1bc45dc240166b8f7602e3",
+        "thumb": "https://github.com/wence-.png",
+        "name": "Ace Ventura",
+        "username": "AceVentura",
+        "bio": "Olá, Pessoal.",
+        "contact": "32987654321",
+        "specialist": "true",
+        "association": "CRMVSP1234",
+        "city": "São Paulo",
+        "status": "ok"
+    }
+}

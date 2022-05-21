@@ -1,0 +1,14 @@
+{
+    "__created_at": 1653063042,
+    "__updated_at": 1653063094,
+    "data": {
+        "id": 1653063042,
+        "thumb": "https://www.akc.org/wp-content/uploads/2017/11/Australian-Shepherd.1.jpg",
+        "name": "Janjão Boy",
+        "breed": "Australian",
+        "gender": "macho",
+        "birth": "2022-05-02",
+        "owner": 1653062949,
+        "token": "9007aff75427a371d805fc42ce0de3a248d5a0ed5fad807bba7804be5f0e37b1059f6f6260ac42edcca18d5bf6c25180c43f789d549aeefc22e707869dcec4a1"
+    }
+}

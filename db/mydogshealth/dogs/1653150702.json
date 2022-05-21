@@ -1,0 +1,14 @@
+{
+    "__created_at": 1653150702,
+    "__updated_at": 1653150702,
+    "data": {
+        "id": 1653150702,
+        "thumb": "https://img.freepik.com/fotos-gratis/lindo-retrato-de-animal-de-estimacao-de-cachorro-com-suco_23-2149218478.jpg?t=st=1653150213~exp=1653150813~hmac=c98bfdd77ebf67e2c689686a430080664f9971abac47e23ff759ecaf201b3c64&w=740",
+        "name": "Jussarinha",
+        "breed": "Dobermn",
+        "gender": "fêmea",
+        "birth": "2022-05-18",
+        "owner": 1653006324,
+        "token": "bce7d42e0ed15d36b0af50e393ceed5cc7d7c563c50d45a77ab66cc85356bf689afc636fd6f76d4007aba6522d37c2793de42fbd0c9b9e1407dce39857961b49"
+    }
+}

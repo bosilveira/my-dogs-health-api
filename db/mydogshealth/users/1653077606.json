@@ -1,0 +1,19 @@
+{
+    "__created_at": 1653077606,
+    "__updated_at": 1653077606,
+    "data": {
+        "id": 1653077606,
+        "email": "teste@teste.com",
+        "password": "Teste@123",
+        "token": "ade52f6ea0b32a893cbdfc20c9d4d32967827af435637205f9b073d9a291dfee274550a735e99425f81536b190c80094e9b56da4319081e1da5b9529d5bb6757",
+        "thumb": "",
+        "name": "User1653077606",
+        "username": "username1653077606",
+        "bio": "Bio de User1653077606",
+        "contact": "",
+        "specialist": false,
+        "association": "",
+        "city": "",
+        "status": "incomplete"
+    }
+}

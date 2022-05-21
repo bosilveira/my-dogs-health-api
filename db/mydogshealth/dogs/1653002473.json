@@ -1,0 +1,14 @@
+{
+    "__created_at": 1653002473,
+    "__updated_at": 1653002473,
+    "data": {
+        "id": 1653002473,
+        "thumb": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/09151144/Alaskan-Malamute-standing-in-the-grass1.jpg",
+        "name": "Shakira",
+        "breed": "Alaskan Malamute",
+        "gender": "fêmea",
+        "birth": "2022-05-01",
+        "owner": 1653002417,
+        "token": "2024d3faeeec78a357dbaf5912d24f0e0774832a4a9d9d08e27623270cc5779027c6aa468c8fcbb5200ecdb30824862aee97929cac7fccccaedc8971987cff9d"
+    }
+}

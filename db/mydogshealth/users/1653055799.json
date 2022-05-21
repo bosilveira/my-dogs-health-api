@@ -1,0 +1,19 @@
+{
+    "__created_at": 1653055799,
+    "__updated_at": 1653055799,
+    "data": {
+        "id": 1653055799,
+        "email": "insciuschannel@gmail.com",
+        "password": "testando123!",
+        "token": "513f62f9e7ca00834a5272fbc4b7209fe11076dc8eec597fc6def5cd3f84b93f9ae4800b7fb398a4f0e83784891562a957e95bda1cc1b7e4b6dea4aabba93739",
+        "thumb": "",
+        "name": "User1653055799",
+        "username": "username1653055799",
+        "bio": "Bio de User1653055799",
+        "contact": "",
+        "specialist": false,
+        "association": "",
+        "city": "",
+        "status": "incomplete"
+    }
+}

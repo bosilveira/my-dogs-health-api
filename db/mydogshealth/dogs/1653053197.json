@@ -1,0 +1,14 @@
+{
+    "__created_at": 1653053197,
+    "__updated_at": 1653053197,
+    "data": {
+        "id": 1653053197,
+        "thumb": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/06154034/Akita-standing-outdoors-in-the-summer.jpg",
+        "name": "Shakira",
+        "breed": "Akita",
+        "gender": "fêmea",
+        "birth": "2022-05-01",
+        "owner": 1653053118,
+        "token": "36f509f42db854086980faddfd5493233fd091d15a07c8f56f5b074e4261ba6ecd905b042cb5c1e80ae41bdb126aa315b98fd92de0d34d706bad26635cc63e2e"
+    }
+}
